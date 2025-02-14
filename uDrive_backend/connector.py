@@ -13,10 +13,10 @@ app = Flask(__name__)
 
 # MySQL bağlantısı için gerekli bilgiler
 db_config = {
-    'user': 'root',
-    'password': 'Kubra3460',
-    'host': 'localhost',
-    'database': 'uDrives'
+    'user': 'username',
+    'password': 'password',
+    'host': 'host',
+    'database': 'dbname'
 }
 
 def get_users():
