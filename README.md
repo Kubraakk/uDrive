@@ -35,9 +35,9 @@ tabanından çekilen bilgilerin kullanıcıya sunulması çalışmanın çıktı
 ## Proje Ekran Görüntüleri 
 
 <img width="189" alt="Ekran Resmi 2025-02-15 01 22 33" src="https://github.com/user-attachments/assets/a4dc79d2-2a12-4a78-aa93-4aa74c77792e" /> 
-<img width="185" alt="Ekran Resmi 2025-02-15 01 23 29" src="https://github.com/user-attachments/assets/488c3a3f-40ea-47c2-b177-000b00516b45" />
+<img width="185" alt="Ekran Resmi 2025-02-15 01 23 29" src="https://github.com/user-attachments/assets/488c3a3f-40ea-47c2-b177-000b00516b45" /><br>
 <img width="186" alt="Ekran Resmi 2025-02-15 01 23 00" src="https://github.com/user-attachments/assets/59c9d6f2-27a9-4e0a-97e9-18ea3b2ea73c" />  
-<img width="191" alt="Ekran Resmi 2025-02-15 01 23 59" src="https://github.com/user-attachments/assets/d33fe5c1-9108-4317-b082-f195674661af" /> 
+<img width="191" alt="Ekran Resmi 2025-02-15 01 23 59" src="https://github.com/user-attachments/assets/d33fe5c1-9108-4317-b082-f195674661af" /><br>
 <img width="188" alt="Ekran Resmi 2025-02-15 01 24 19" src="https://github.com/user-attachments/assets/41fc559f-fea7-4c20-b674-1a73255f3803" />
 <img width="188" alt="Ekran Resmi 2025-02-15 01 24 54" src="https://github.com/user-attachments/assets/7968a6ee-9253-4039-9232-177f96270646" />
 
