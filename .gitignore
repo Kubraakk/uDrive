@@ -1,0 +1,23 @@
+# macOS / Xcode ile ilgili dosyalar
+.DS_Store
+*.xcworkspace
+*.xcuserstate
+DerivedData/
+Pods/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# Swift Package Manager
+/.swiftpm
+Package.resolved
+
+# Carthage
+/Carthage/Checkouts
+/Carthage/Build
+
+# CocoaPods
+Pods/
+*.lock
+
